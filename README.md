@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ali-Dehissy
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently studying at Holbertonschool Tunisia
+- 👋 Hi, I’m Ali-Dehissy
+- 👀 Currently studying web development at Holberton School Tunisia
+- 🌱 Full-Stack Web Developer to become
 
 <!---
 Ali-Dehissy/Ali-Dehissy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
