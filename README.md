@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ali-Dehissy
-- 👀 Currently studying web development at Holberton School Tunisia
-- 🌱 Full-Stack Web Developer to become
+- 🌱 Full-Stack Sofwatre Developer specialized in Web Development 
 
 <!---
 Ali-Dehissy/Ali-Dehissy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
